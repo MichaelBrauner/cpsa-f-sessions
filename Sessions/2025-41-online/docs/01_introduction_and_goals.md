@@ -25,10 +25,10 @@ Entwurf einer Cross-Platform Applikation mit folgenden Kernfunktionen:
 
 ## 1.3 Stakeholder
 
-| Rolle | Kontakt | Erwartungshaltung |
-|-------|---------|-------------------|
-| **Testerin (Antje)** | - | Genaue App-Beschreibung für Testfälle, Dummy-Daten für Schnittstellen, automatisierte Tests in CI/CD, Ressourcen für Testing und Bugfixing |
-| **Entwickler** | - | Saubere Modularität, klare Schnittstellendefinition, CI/CD, Akzeptanzkriterien für Jira Tickets, Code Reviews, 30% Zeit für technische Schulden |
-| **Marketing** | - | Früher Snapshot/Prototype (1.5 Monate), schnelle Iterationen, modernes Design mit WOW-Effekt, Webdesign-Übernahme |
-| **Product Owner** | - | Prototype in 1.5 Monaten, verkaufsfähiges MVP in 8 Monaten, User Stories, genaue MVP-Beschreibung |
-| **Architekt** | - | Überblick behalten, technologische Richtlinien, Kommunikation zwischen Stakeholdern, Architektur-Standups (Mi/Fr) |
+| Rolle             | Kontakt | Erwartungshaltung                                                                                                                               |
+|-------------------|---------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Testerin**      | -       | Genaue App-Beschreibung für Testfälle, Dummy-Daten für Schnittstellen, automatisierte Tests in CI/CD, Ressourcen für Testing und Bugfixing      |
+| **Entwickler**    | -       | Saubere Modularität, klare Schnittstellendefinition, CI/CD, Akzeptanzkriterien für Jira Tickets, Code Reviews, 30% Zeit für technische Schulden |
+| **Marketing**     | -       | Früher Snapshot/Prototype (1.5 Monate), schnelle Iterationen, modernes Design mit WOW-Effekt, Webdesign-Übernahme                               |
+| **Product Owner** | -       | Prototype in 1.5 Monaten, verkaufsfähiges MVP in 8 Monaten, User Stories, genaue MVP-Beschreibung                                               |
+| **Architekt**     | -       | Überblick behalten, technologische Richtlinien, Kommunikation zwischen Stakeholdern, Architektur-Standups (Mi/Fr)                               |

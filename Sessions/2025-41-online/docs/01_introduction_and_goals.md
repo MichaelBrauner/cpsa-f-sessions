@@ -3,32 +3,56 @@
 ## 1.1 Aufgabenstellung
 
 Entwurf einer Cross-Platform Applikation mit folgenden Kernfunktionen:
-- Chat
-- Suche
-- Bewertungen
 
-**Timeline:**
-- Prototype: 1.5 Monate (für Marketing)
-- MVP (verkaufsfähig): spätestens 8 Monate
+- Verleihen
+- Ausleihen
 
 **Geschäftsmodell:**
-- Initial: Kostenloses Verleihen (quick time to market)
+- Initial: Kostenloses Verleihen
 - Später: Monetarisierung möglich (ggf. Versicherungen anbieten)
+
+*Timeline-Vorgaben und weitere Beschränkungen siehe [Kapitel 2 - Architekturbeschränkungen](02_architecture_constraints.md).*
 
 ## 1.2 Qualitätsziele
 
-1. **Wartbarkeit und Erweiterbarkeit**: Saubere Modularität und Konsistenz im Code
-2. **Nutzerfreundlichkeit**: Modernes Design mit WOW-Effekt
-3. **Sicherheit**: Google Login Integration, Datenschutz-Konformität
-4. **Testbarkeit**: Automatisierte Tests in CI/CD Pipeline
-5. **Performance**: Schnelle Iterationen und kurze Ladezeiten
+Die drei wichtigsten Qualitätsziele für WillLeihen:
+
+1. **Usable** - Einfache, intuitive Bedienung für schnelle Markteinführung und geringe Einstiegshürden
+2. **Flexible** - Erweiterbarkeit für neue Features bei wachsenden Anforderungen
+3. **Secure** - Vertrauen durch Datenschutz und sichere Authentifizierung
+
+*Detaillierte Qualitätsanforderungen mit messbaren Szenarien finden sich in [Kapitel 10](10_quality_requirements.md).*
 
 ## 1.3 Stakeholder
 
-| Rolle             | Kontakt | Erwartungshaltung                                                                                                                               |
-|-------------------|---------|-------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Testerin**      | -       | Genaue App-Beschreibung für Testfälle, Dummy-Daten für Schnittstellen, automatisierte Tests in CI/CD, Ressourcen für Testing und Bugfixing      |
-| **Entwickler**    | -       | Saubere Modularität, klare Schnittstellendefinition, CI/CD, Akzeptanzkriterien für Jira Tickets, Code Reviews, 30% Zeit für technische Schulden |
-| **Marketing**     | -       | Früher Snapshot/Prototype (1.5 Monate), schnelle Iterationen, modernes Design mit WOW-Effekt, Webdesign-Übernahme                               |
-| **Product Owner** | -       | Prototype in 1.5 Monaten, verkaufsfähiges MVP in 8 Monaten, User Stories, genaue MVP-Beschreibung                                               |
-| **Architekt**     | -       | Überblick behalten, technologische Richtlinien, Kommunikation zwischen Stakeholdern, Architektur-Standups (Mi/Fr)                               |
+### Testerin
+- Genaue App-Beschreibung für Testfälle
+- Dummy-Daten für Schnittstellen
+- Automatisierte Tests in CI/CD
+- Ressourcen für Testing und Bugfixing
+
+### Entwickler
+- Saubere Modularität
+- Klare Schnittstellendefinition
+- CI/CD Pipeline
+- Akzeptanzkriterien für Jira Tickets
+- Code Reviews
+- 30% Zeit für technische Schulden
+
+### Marketing
+- Früher Snapshot/Prototype (1.5 Monate)
+- Schnelle Iterationen
+- Modernes Design mit WOW-Effekt
+- Webdesign-Übernahme
+
+### Product Owner
+- Prototype in 1.5 Monaten
+- Verkaufsfähiges MVP in 8 Monaten
+- User Stories
+- Genaue MVP-Beschreibung
+
+### Architekt
+- Überblick behalten
+- Technologische Richtlinien
+- Kommunikation zwischen Stakeholdern
+- Architektur-Standups (Mi/Fr)

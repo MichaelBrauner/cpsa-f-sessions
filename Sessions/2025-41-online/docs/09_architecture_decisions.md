@@ -13,11 +13,11 @@ Alle Architekturentscheidungen befinden sich im `/adr` Ordner als separate Datei
 
 ## 9.2 Übersichtstabelle
 
-| Entscheidung | Status | Datum | Datei |
-|--------------|--------|-------|-------|
-| Spring Framework Backend | ✅ Accepted | Workshop Tag 1 | ADR-001 |
-| Google Login Authentication | ✅ Accepted | Workshop Tag 1 | ADR-002 |
-| Frontend JS Framework | 🔄 Proposed | Workshop Tag 1 | ADR-003 |
-| Cloud Provider | 🔄 Proposed | Workshop Tag 1 | ADR-004 |
-| Chat-Funktionalität | 🔄 Proposed | Workshop Tag 1 | ADR-005 |
-| KI-Einsatz | 🔄 Proposed | Workshop Tag 1 | ADR-006 |
+| Entscheidung                | Status      | Datum          | Datei   |
+|-----------------------------|-------------|----------------|---------|
+| Spring Framework Backend    | ✅ Accepted  | Workshop Tag 1 | ADR-001 |
+| Google Login Authentication | ✅ Accepted  | Workshop Tag 1 | ADR-002 |
+| Frontend JS Framework       | 🔄 Proposed | Workshop Tag 1 | ADR-003 |
+| Cloud Provider              | 🔄 Proposed | Workshop Tag 1 | ADR-004 |
+| Chat-Funktionalität         | 🔄 Proposed | Workshop Tag 1 | ADR-005 |
+| KI-Einsatz                  | 🔄 Proposed | Workshop Tag 1 | ADR-006 |

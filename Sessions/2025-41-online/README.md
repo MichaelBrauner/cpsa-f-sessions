@@ -36,6 +36,12 @@ Jeder Teilnehmer spielte einen [Stakeholder](docs/12_glossary.md#stakeholder):
 
 ➡️ [Interaktives Zoom Whiteboard](https://zoom.us/wb/doc/y0bF9NueSLeHk0ti9sbXZQ)
 
+## Kurs-Feedback
+
+📊 [Mentimeter-Ergebnisse und Teilnehmer-Feedback](docs/course-notes/mentimeter-feedback.md)
+
+**Gesamtnote: 1.5** (sehr gut) - Besonders gelobt: Planspiel-Format und Trainer-Qualität
+
 ## Navigation
 
 Das Repository nutzt **verlinkte Begriffe** für einfache Navigation:

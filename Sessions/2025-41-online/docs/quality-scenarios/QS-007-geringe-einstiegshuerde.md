@@ -1,7 +1,7 @@
 # QS-007: Geringe Einstiegshürde für neue Nutzer
 
 ## Qualitätsmerkmal
-**Usable > Einstiegshürde**
+**[Usable](../10_quality_requirements.md#usable) > Einstiegshürde**
 
 ## Szenario
 

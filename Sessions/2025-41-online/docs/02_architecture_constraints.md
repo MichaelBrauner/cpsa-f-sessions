@@ -2,49 +2,20 @@
 
 ## 2.1 Organisatorische Randbedingungen
 
-### Timeline-Vorgaben
-- **Prototype:** 1.5 Monate (für Marketing-Zwecke)
-- **MVP (verkaufsfähig):** spätestens 8 Monate
-- **Quick Time to Market:** Priorität auf schnelle Markteinführung
-
-### Team-Zusammensetzung
-- Entwickler, Testerin, Marketing, Product Owner, Architekt
-- Begrenzte Ressourcen für MVP-Phase
-- 30% Zeit für technische Schulden eingeplant
-
-### Budget-Beschränkungen
-- Initial kostenloses Verleihen (kein sofortiger Revenue)
-- Monetarisierung erst später geplant
-- Ressourcen-optimierte Entwicklung erforderlich
+### Timeline & Budget
+- **[Prototype](12_glossary.md#prototype):** 1.5 Monate (für Marketing)
+- **[MVP](12_glossary.md#mvp):** 8 Monate, 1 Mio € Budget
+- **Team:** Entwickler, Testerin, Marketing, Product Owner, Architekt
+- Initial kostenloses [Verleihen](12_glossary.md#verleihen), [Monetarisierung](12_glossary.md#monetarisierung) später
 
 ## 2.2 Technische Randbedingungen
 
-### Plattform-Anforderungen
-- **Cross-Platform Applikation** erforderlich
-- Unterstützung für mobile Geräte und Web
-- Responsive Design für verschiedene Bildschirmgrößen
+- **[Cross-Platform](12_glossary.md#cross-platform):** iOS, Android, Web
+- **Login:** Google OAuth als [Authentifizierungsdienst](12_glossary.md#authentifizierungsdienst)
+- **Datenbank:** Relationale DB, skalierbar
 
-### Authentifizierung
-- **Google OAuth** als primäres Login-System
-- Integration mit externen Authentifizierungsdiensten
+## 2.3 Standards
 
-### Datenbank
-- Relationale Datenbank für MVP
-- Skalierbarkeit für wachsende Nutzerzahlen
-
-## 2.3 Konventionen und Standards
-
-### Datenschutz
-- **DSGVO-Konformität** erforderlich
-- Schutz personenbezogener Daten
-- Datenminimierung bei Weitergabe
-
-### Code-Qualität
-- Saubere Modularität
-- Automatisierte Tests in CI/CD Pipeline
-- Code Reviews für alle Änderungen
-
-### Design-Anforderungen
-- Modernes Design mit "WOW-Effekt"
-- Intuitive Benutzerführung
-- Konsistenz über alle Plattformen
+- **[Datenschutz](12_glossary.md#datenschutz):** DSGVO-konform, [Datenminimierung](12_glossary.md#datenminimierung)
+- **Code:** [Modularität](12_glossary.md#modularitaet), [CI/CD](12_glossary.md#cicd), Reviews
+- **Design:** [WOW-Effekt](12_glossary.md#wow-effekt), [UI-Konsistenz](12_glossary.md#ui-konsistenz) über alle [Plattformen](12_glossary.md#platform)

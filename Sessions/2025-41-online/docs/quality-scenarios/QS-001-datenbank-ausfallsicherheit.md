@@ -1,7 +1,7 @@
 # QS-001: Ausfallsicherheit der Datenbank
 
 ## Qualitätsmerkmal
-**Reliable > Ausfallsicherheit**
+**[Reliable](../10_quality_requirements.md#reliable) > Ausfallsicherheit**
 
 ## Szenario
 

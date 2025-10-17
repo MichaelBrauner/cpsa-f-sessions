@@ -1,7 +1,7 @@
 # QS-010: Neuer Login-Provider hinzufügen
 
 ## Qualitätsmerkmal
-**Flexible > Erweiterbarkeit (Modifiability)**
+**[Flexible](../10_quality_requirements.md#flexible) > Erweiterbarkeit (Modifiability)**
 
 ## Szenario
 

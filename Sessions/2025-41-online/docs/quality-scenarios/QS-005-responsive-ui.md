@@ -1,7 +1,7 @@
 # QS-005: Bequem zu bedienen / Responsive UI
 
 ## Qualitätsmerkmal
-**Reliable > Responsive UI**
+**[Reliable](../10_quality_requirements.md#reliable) > Responsive UI**
 
 ## Szenario
 

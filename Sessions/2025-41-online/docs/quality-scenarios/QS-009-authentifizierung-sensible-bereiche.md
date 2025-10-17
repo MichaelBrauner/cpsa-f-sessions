@@ -1,7 +1,7 @@
 # QS-009: Authentifizierung für sensible Bereiche
 
 ## Qualitätsmerkmal
-**Secure > Authentifizierung**
+**[Secure](../10_quality_requirements.md#secure) > Authentifizierung**
 
 ## Szenario
 

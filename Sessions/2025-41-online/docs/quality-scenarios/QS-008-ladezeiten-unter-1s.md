@@ -1,7 +1,7 @@
 # QS-008: Ladezeiten bleiben konsequent unter 1s
 
 ## Qualitätsmerkmal
-**Usable > Performance**
+**[Usable](../10_quality_requirements.md#usable) > Performance**
 
 ## Szenario
 

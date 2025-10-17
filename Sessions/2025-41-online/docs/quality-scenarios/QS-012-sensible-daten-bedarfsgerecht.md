@@ -1,7 +1,7 @@
 # QS-012: Sensible Personendaten nur bei Bedarf weitergeben
 
 ## Qualitätsmerkmal
-**Secure > Datenminimierung**
+**[Secure](../10_quality_requirements.md#secure) > Datenminimierung**
 
 ## Szenario
 

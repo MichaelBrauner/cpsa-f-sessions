@@ -1,7 +1,7 @@
 # QS-013: Jeder Entwickler kann die gesamte Codebase betreuen
 
 ## Qualitätsmerkmal
-**Flexible > Wartbarkeit**
+**[Flexible](../10_quality_requirements.md#flexible) > Wartbarkeit**
 
 ## Szenario
 

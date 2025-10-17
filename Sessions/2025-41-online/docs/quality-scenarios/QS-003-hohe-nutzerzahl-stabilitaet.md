@@ -1,7 +1,7 @@
 # QS-003: Stabilität bei hoher Nutzeranzahl
 
 ## Qualitätsmerkmal
-**Reliable > Stabilität**
+**[Reliable](../10_quality_requirements.md#reliable) > Stabilität**
 
 ## Szenario
 

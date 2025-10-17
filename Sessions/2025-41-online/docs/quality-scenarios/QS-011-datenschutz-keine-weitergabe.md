@@ -1,7 +1,7 @@
 # QS-011: Personenbezogene Daten sollen nicht nach außen gelangen
 
 ## Qualitätsmerkmal
-**Secure > Datenschutz**
+**[Secure](../10_quality_requirements.md#secure) > Datenschutz**
 
 ## Szenario
 

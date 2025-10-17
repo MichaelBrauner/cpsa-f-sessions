@@ -2,39 +2,39 @@
 
 ## 3.1 Fachlicher Kontext
 
-WillLeihen ist eine Plattform, über die private Nutzer Gegenstände verleihen und ausleihen können.
+[WillLeihen](12_glossary.md#willleihen) ist eine [Platform](12_glossary.md#platform), über die private Nutzer Gegenstände [verleihen](12_glossary.md#verleihen) und [ausleihen](12_glossary.md#ausleihen) können.
 
 ### Externe Akteure
-- **User** - jeder User kann Ausleihen und Verleihen
+- **[User](12_glossary.md#user)** - jeder [User](12_glossary.md#user) kann [Ausleihen](12_glossary.md#ausleihen) und [Verleihen](12_glossary.md#verleihen)
 
 ### Fachliche Nachbarsysteme
-- **Authentifizierungsdienst** – Login, Registrierung
+- **[Authentifizierungsdienst](12_glossary.md#authentifizierungsdienst)** – Login, Registrierung
 - **Datenbank** – Datenhaltung
 
 *Technische Details zu verwendeten Systemen siehe [Kapitel 2 - Architekturbeschränkungen](02_architecture_constraints.md).*
 
 ### Informationsflüsse
-- User ↔ WillLeihen: Such-, Rückgabeprozesse und Angebotsverwaltung
-- WillLeihen ↔ Authentifizierungsdienst: Identifikation 
+- [User](12_glossary.md#user) ↔ [WillLeihen](12_glossary.md#willleihen): Such-, [Rückgabe](12_glossary.md#rueckgabe)prozesse und Angebotsverwaltung
+- [WillLeihen](12_glossary.md#willleihen) ↔ [Authentifizierungsdienst](12_glossary.md#authentifizierungsdienst): Identifikation 
 
 ## 3.2 Technischer Kontext (optional)
-Wird im MVP-Entwurf nicht modelliert.
+Wird im [MVP](12_glossary.md#mvp)-Entwurf nicht modelliert.
 
 ## 3.3 Funktionale Anforderungen
 
 ### Registrierung
-- User kann sich über Google registrieren
+- [User](12_glossary.md#user) kann sich über Google registrieren
 
 ### Login
-- User kann sich über Google einloggen
-- User kann sich ausloggen
+- [User](12_glossary.md#user) kann sich über Google einloggen
+- [User](12_glossary.md#user) kann sich ausloggen
 
 ### Artikelverwaltung
-- User kann Artikel anlegen
-- User kann Artikel bearbeiten
-- User kann Artikel löschen
-- User kann Artikel suchen
-- User kann Artikel ausleihen
-- User kann Artikel zurückgeben
-- User kann Artikel als defekt melden
-- User kann Artikel bewerten
+- [User](12_glossary.md#user) kann [Artikel](12_glossary.md#artikel) anlegen
+- [User](12_glossary.md#user) kann [Artikel](12_glossary.md#artikel) bearbeiten
+- [User](12_glossary.md#user) kann [Artikel](12_glossary.md#artikel) löschen
+- [User](12_glossary.md#user) kann [Artikel](12_glossary.md#artikel) suchen
+- [User](12_glossary.md#user) kann [Artikel](12_glossary.md#artikel) [ausleihen](12_glossary.md#ausleihen)
+- [User](12_glossary.md#user) kann [Artikel](12_glossary.md#artikel) zurückgeben
+- [User](12_glossary.md#user) kann [Artikel](12_glossary.md#artikel) als defekt melden
+- [User](12_glossary.md#user) kann [Artikel](12_glossary.md#artikel) bewerten

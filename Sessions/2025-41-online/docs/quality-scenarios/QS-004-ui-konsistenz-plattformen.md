@@ -1,7 +1,7 @@
 # QS-004: Konsistenz des UI über alle Plattformen
 
 ## Qualitätsmerkmal
-**Reliable > UI-Konsistenz**
+**[Reliable](../10_quality_requirements.md#reliable) > UI-Konsistenz**
 
 ## Szenario
 

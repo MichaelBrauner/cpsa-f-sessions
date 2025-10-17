@@ -1,7 +1,7 @@
 # QS-014: App auf verschiedenen Plattformen ausführen
 
 ## Qualitätsmerkmal
-**Flexible > Plattformunabhängigkeit**
+**[Flexible](../10_quality_requirements.md#flexible) > Plattformunabhängigkeit**
 
 ## Szenario
 

@@ -1,7 +1,7 @@
 # QS-006: User kann leicht und schnell seine Artikel anlegen
 
 ## Qualitätsmerkmal
-**Usable > Benutzerfreundlichkeit**
+**[Usable](../10_quality_requirements.md#usable) > Benutzerfreundlichkeit**
 
 ## Szenario
 

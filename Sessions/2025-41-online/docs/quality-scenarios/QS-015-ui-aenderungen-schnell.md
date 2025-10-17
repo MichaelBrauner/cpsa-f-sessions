@@ -1,7 +1,7 @@
 # QS-015: Änderungen an der UI einfach und schnell durchführen
 
 ## Qualitätsmerkmal
-**Flexible > UI-Anpassbarkeit**
+**[Flexible](../10_quality_requirements.md#flexible) > UI-Anpassbarkeit**
 
 ## Szenario
 

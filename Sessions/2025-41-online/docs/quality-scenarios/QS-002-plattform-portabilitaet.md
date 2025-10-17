@@ -1,7 +1,7 @@
 # QS-002: App auf verschiedenen Plattformen
 
 ## Qualitätsmerkmal
-**Reliable > Portabilität**
+**[Reliable](../10_quality_requirements.md#reliable) > Portabilität**
 
 ## Szenario
 

@@ -40,8 +40,6 @@ Jeder Teilnehmer spielte einen [Stakeholder](docs/12_glossary.md#stakeholder):
 
 📊 [Mentimeter-Ergebnisse und Teilnehmer-Feedback](notes/mentimeter-feedback.md)
 
-**Gesamtnote: 1.5** (sehr gut) - Besonders gelobt: Planspiel-Format und Trainer-Qualität
-
 ## Navigation
 
 Das Repository nutzt **verlinkte Begriffe** für einfache Navigation:

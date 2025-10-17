@@ -51,6 +51,10 @@ Das Repository nutzt **verlinkte Begriffe** für einfache Navigation:
 
 ## Links
 
+### Literaturempfehlungen
+- [Effektive Softwarearchitekturen: Ein praktischer Leitfaden](https://amzn.eu/d/cguCnZQ) - Gernot Starke (arc42-Begründer)
+
+### Weiterführende Artikel
 - [Blogartikel - "How to recover from Microservices"](https://world.hey.com/dhh/how-to-recover-from-microservices-ce3803cc)
 - [Sammlung von Artikeln über "Majestic Monolith"](https://www.monolithic.dev/#articles)
 

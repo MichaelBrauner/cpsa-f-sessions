@@ -30,7 +30,7 @@ Jeder Teilnehmer spielte einen [Stakeholder](docs/12_glossary.md#stakeholder):
 
 ## Whiteboard
 
-![Planspiel Whiteboard](docs/course-notes/whiteboard-session.png)
+![Planspiel Whiteboard](notes/whiteboard-session.png)
 
 *Gemeinsam erstelltes Whiteboard aus der Zoom-Session*
 
@@ -38,7 +38,7 @@ Jeder Teilnehmer spielte einen [Stakeholder](docs/12_glossary.md#stakeholder):
 
 ## Kurs-Feedback
 
-📊 [Mentimeter-Ergebnisse und Teilnehmer-Feedback](docs/course-notes/mentimeter-feedback.md)
+📊 [Mentimeter-Ergebnisse und Teilnehmer-Feedback](notes/mentimeter-feedback.md)
 
 **Gesamtnote: 1.5** (sehr gut) - Besonders gelobt: Planspiel-Format und Trainer-Qualität
 

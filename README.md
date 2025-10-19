@@ -1,10 +1,11 @@
-# 🏗️ CPSA-F Kursarchiv – *WillLeihen*
+# CPSA-F Sessions
 
-Dieses Repository sammelt die **Ergebnisse verschiedener Kursgruppen**,  
-die im Rahmen des iSAQB®-CPSA-F-Trainings von *Michael Brauner* entstanden sind.
+Architektur-Ergebnisse aus meinen CPSA-F Trainings zum Projekt "WillLeihen" – einer Plattform zum privaten Verleihen und Ausleihen von Gegenständen.
 
-Jede Gruppe hat während des Kurses eine **Architektur für das fiktive Projekt [WillLeihen](../README.md)** konzipiert –  
-eine Plattform, auf der Menschen Gegenstände verleihen und ausleihen können.
+## Sessions
 
-Ziel dieses Archivs ist es, zu zeigen,  
-wie unterschiedlich Teams **Architekturentscheidungen treffen, Anforderungen priorisieren und Qualitäten aushandeln.**
+| Session | Format | TN | Trainer | Kompetenz | Material | Interaktivität | Ø   | Details                                     |
+|---------|--------|----|---------|-----------|----------|----------------|-----|---------------------------------------------|
+| 2025-41 | Online | 4  | 4.7     | 4.4       | 3.3      | 4.5            | 4.2 | [→](2025-41-online/README.md#kurs-feedback) |
+
+*Bewertungsskala: 1-5 (5 = beste Bewertung) | TN = Teilnehmerzahl*

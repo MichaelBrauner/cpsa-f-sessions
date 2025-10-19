@@ -5,17 +5,19 @@
 [WillLeihen](12_glossary.md#willleihen) ist eine [Platform](12_glossary.md#platform), über die private Nutzer Gegenstände [verleihen](12_glossary.md#verleihen) und [ausleihen](12_glossary.md#ausleihen) können.
 
 ### Externe Akteure
-- **[User](12_glossary.md#user)** - jeder [User](12_glossary.md#user) kann [Ausleihen](12_glossary.md#ausleihen) und [Verleihen](12_glossary.md#verleihen)
+
+| Akteur | Sendet | Empfängt |
+|--------|--------|----------|
+| [User](12_glossary.md#user) | Suchanfragen, Artikelangaben, [Rückgabe](12_glossary.md#rueckgabe)meldungen | Suchergebnisse, Artikeldetails, Bestätigungen |
 
 ### Fachliche Nachbarsysteme
-- **[Authentifizierungsdienst](12_glossary.md#authentifizierungsdienst)** – Login, Registrierung
-- **Datenbank** – Datenhaltung
 
-*Technische Details zu verwendeten Systemen siehe [Kapitel 2 - Architekturbeschränkungen](02_architecture_constraints.md).*
+| System | Sendet | Empfängt |
+|--------|--------|----------|
+| [Authentifizierungsdienst](12_glossary.md#authentifizierungsdienst) | Login-Tokens, Nutzeridentität | Authentifizierungsanfragen |
+| Datenbank | Artikel-, Nutzer- und Ausleihdaten | Speicher- und Änderungsanfragen |
 
-### Informationsflüsse
-- [User](12_glossary.md#user) ↔ [WillLeihen](12_glossary.md#willleihen): Such-, [Rückgabe](12_glossary.md#rueckgabe)prozesse und Angebotsverwaltung
-- [WillLeihen](12_glossary.md#willleihen) ↔ [Authentifizierungsdienst](12_glossary.md#authentifizierungsdienst): Identifikation 
+*Technische Details zu verwendeten Systemen siehe [Kapitel 2 - Architekturbeschränkungen](02_architecture_constraints.md).* 
 
 ## 3.2 Technischer Kontext (optional)
 Wird im [MVP](12_glossary.md#mvp)-Entwurf nicht modelliert.

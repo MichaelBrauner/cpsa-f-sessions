@@ -6,16 +6,16 @@
 
 ### Externe Akteure
 
-| Akteur | Sendet | Empfängt |
-|--------|--------|----------|
+| Akteur                      | Sendet                                                                      | Empfängt                                      |
+|-----------------------------|-----------------------------------------------------------------------------|-----------------------------------------------|
 | [User](12_glossary.md#user) | Suchanfragen, Artikelangaben, [Rückgabe](12_glossary.md#rueckgabe)meldungen | Suchergebnisse, Artikeldetails, Bestätigungen |
 
 ### Fachliche Nachbarsysteme
 
-| System | Sendet | Empfängt |
-|--------|--------|----------|
-| [Authentifizierungsdienst](12_glossary.md#authentifizierungsdienst) | Login-Tokens, Nutzeridentität | Authentifizierungsanfragen |
-| Datenbank | Artikel-, Nutzer- und Ausleihdaten | Speicher- und Änderungsanfragen |
+| System                                                              | Sendet                             | Empfängt                        |
+|---------------------------------------------------------------------|------------------------------------|---------------------------------|
+| [Authentifizierungsdienst](12_glossary.md#authentifizierungsdienst) | Login-Tokens, Nutzeridentität      | Authentifizierungsanfragen      |
+| Datenbank                                                           | Artikel-, Nutzer- und Ausleihdaten | Speicher- und Änderungsanfragen |
 
 *Technische Details zu verwendeten Systemen siehe [Kapitel 2 - Architekturbeschränkungen](02_architecture_constraints.md).* 
 

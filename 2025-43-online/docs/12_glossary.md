@@ -6,6 +6,7 @@
 |-----------------------------------------|----------------------------------------------------------------------------------|
 | **<a id="stakeholder">Stakeholder</a>** | Interessensgruppen: Testerin, Entwickler, Scrum Master, Product Owner, Architekt |
 | **<a id="willleihen">WillLeihen</a>**   | Name der Verleihe-Plattform                                                      |
+| **<a id="moderator">Moderator</a>**     | Externe Person oder Rolle, die Angebote prüft und unangemessene Inhalte entfernt |
 
 ## Business-Begriffe
 

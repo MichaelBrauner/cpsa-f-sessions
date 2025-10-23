@@ -25,7 +25,7 @@ Die drei wichtigsten Qualitätsziele für [WillLeihen](12_glossary.md#willleihen
 
 ## 1.3 [Stakeholder](12_glossary.md#stakeholder)
 
-### Testerin
+### Tester
 - Frühe Einbindung in Anforderungsphase
 - Klare Abnahmekriterien für Features
 - Gutes Logging und Tracing für PROD-Fehleranalyse

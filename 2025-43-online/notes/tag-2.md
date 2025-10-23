@@ -64,5 +64,49 @@
 
 ## Nächste Schritte
 - Anforderungen gemeinsam festlegen
-- Anforderungen soweit wie nötig für einen ersten SPrint 
-- besser einen SPrint im Vorsprung sein 
+- Anforderungen soweit wie nötig für einen ersten SPrint
+- besser einen SPrint im Vorsprung sein
+
+## Whiteboard Sammlung - Übungen zu Anforderungsarten
+
+*Übungen zum Finden von funktionalen Anforderungen und Qualitätsanforderungen*
+
+### 1. Funktionale Anforderungen (Core Features)
+**Benutzerverwaltung:**
+- Account-Management
+- Ausleihen/Verleihen von Gegenständen
+- Suche nach Maschinen/Dienstleistungen
+- Entfernungsbasiertes Ranking
+
+**Community Features:**
+- Moderation von Angeboten
+- Mehrsprachigkeit
+- Direkt-Chat zwischen Nutzern
+- Peer-to-Peer Bezahlfunktion
+- Individuelle Shopseiten mit Kontaktdetails
+
+**Zusatzfunktionen:**
+- Backlog-System für geplante Features
+
+### 2. Nicht-funktionale Anforderungen (Qualitätsmerkmale)
+
+**Sicherheit & Datenschutz:**
+- DSGVO-Konformität
+- Jugendschutz und Datensicherheit
+- Ausfallsicherheit (Recovery < 15 Min)
+
+**Performance:**
+- Suchresultate < 3 Sekunden (Heim-WLAN)
+- Hohe Performance beim Laden von Bildern
+
+**Usability:**
+- Reduzierung auf das Nötigste
+- Leichte Bedienbarkeit
+- Grundlegende Accessibility (Farben, Kontraste)
+
+### 3. Definition of Done (Beschlüsse)
+- Wöchentliche Rückmeldung an Product Owner
+- Fester Sprint Scope (keine nachträglichen Änderungen)
+- Angemessene Feature-Größe
+- Code Reviews pro Story beim Branch-Merge
+- Funktions-orientierte Tests (nicht 100% Abdeckung) 

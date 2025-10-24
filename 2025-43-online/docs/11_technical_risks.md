@@ -2,13 +2,18 @@
 
 ## 11.1 Risiken
 
-### Identifizierte Risiken
+### Kritische Risiken (aus FMEA-Analyse)
 
-| Risiko     | Beschreibung                                        | Wahrscheinlichkeit | Auswirkung | Mitigation                            |
-|------------|-----------------------------------------------------|--------------------|------------|---------------------------------------|
-| User-Scam  | Betrügerische Nutzer könnten Plattform missbrauchen | Mittel             | Hoch       | User-Verifizierung implementieren     |
-| Konkurrenz | Wettbewerber könnten schneller am Markt sein        | Hoch               | Hoch       | Agile Entwicklung, schnelle Iteration |
-| Skalierung | Unbekannte Traffic-Erwartungen                      | Mittel             | Hoch       | Cloud-Lösung, Load-Testing            |
+| Risiko | RPN | Maßnahme | Status |
+|--------|-----|----------|---------|
+| User-Scam | 80 | Userdaten aufnehmen und verifizieren; Geldtransaktion buffern | Geplant |
+| Skalierung | 42 | Vertikales Skalieren | Implementiert |
+
+### Akzeptierte Risiken
+
+| Risiko | RPN | Monitoring |
+|--------|-----|------------|
+| Konkurrenz | 20 | Klarheiten frühzeitig klären, mehr Entwickler einstellen |
 
 ### Offene Fragen
 

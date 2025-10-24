@@ -1,13 +1,16 @@
 # ADR-004: Test-Driven-Development
 
 ## Status
-Proposed
+Accepted
 
 ## Context
 Die Entwickler haben TDD als gewünschte Entwicklungsmethodik geäußert. Dies soll die Codequalität sicherstellen.
 
 ## Decision
-*Noch zu entscheiden*
+Wir führen Test-Driven Development (TDD) als Standard-Entwicklungsmethodik ein. Alle neuen Features werden mit Tests begonnen, gefolgt von der minimalen Implementation.
 
 ## Consequences
-*Werden nach Entscheidung dokumentiert*
+- **Positiv**: Höhere Codequalität, bessere Wartbarkeit, Vertrauen in Änderungen
+- **Negativ**: Initiale Einarbeitung erforderlich, höherer Zeitaufwand zu Beginn
+- **Risiko**: Team benötigt TDD-Schulung
+- **Mitigation**: Pair Programming und Code Reviews zur Wissensverteilung
